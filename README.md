@@ -13,7 +13,10 @@ First download and install Anaconda. Used for this project is conda 4.5.11. Newe
 
 For an installation guide for Anaconda go [here](http://docs.anaconda.com/anaconda/install/windows/).
 
+fast.ai version 0.7 is required for this notebooks.
+
 An installation guide for fast.ai can be found [here](https://forums.fast.ai/t/how-to-set-up-windows-10-for-fast-ai/9811).
+
 
 ### Usage
 
