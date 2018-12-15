@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Sentiment140 Word Embeddings",
+      "tensorShape": [
+        10000,
+        400
+      ],
+      "tensorPath": "https://github.com/EinAeffchen/Bachelor-Transfer-Learning/blob/master/tensorboard.tsv",
+      "metadataPath": "https://github.com/EinAeffchen/Bachelor-Transfer-Learning/blob/master/itos.tsv",
+    }
+  ]
+}
