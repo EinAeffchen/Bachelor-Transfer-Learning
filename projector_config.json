@@ -7,7 +7,7 @@
         400
       ],
       "tensorPath": "https://raw.githubusercontent.com/EinAeffchen/Bachelor-Transfer-Learning/master/tensorboard.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/EinAeffchen/Bachelor-Transfer-Learning/master/itos.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/EinAeffchen/Bachelor-Transfer-Learning/master/itos.tsv"
     }
   ]
 }
