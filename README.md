@@ -2,6 +2,10 @@
 
 The files here can be used to create language models and use these for transfer learning based classifiers. 
 
+A visualization of the Sentiment140 based language model can be found at [http://projector.tensorflow.org/](http://projector.tensorflow.org/?config=https://raw.githubusercontent.com/EinAeffchen/Bachelor-Transfer-Learning/master/Sentiment140_Embedding_Visualizations/projector_config.json).
+
+The bookmarks show some preset clusters.
+
 ## Getting Started
 
 Just clone this git and run the jupyter notebooks.
@@ -49,6 +53,9 @@ When all files are downloaded and copied to the correct folders, you just need t
 jupyter notebook
 ```
 in the corresponding folder and run all cells in the notebook for the languagemodel you want to test.
+
+#### 
+
 
 ## License
 
